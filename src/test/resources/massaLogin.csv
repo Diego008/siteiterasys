@@ -1,0 +1,8 @@
+teste;email;senha;resultado
+1;diegoaugusto008@gmail.com;dap240593;positivo
+2;diegoaugusto008@gmail.com;123456;negativo
+3;diego;dap240593;negativo
+4;diego;123456;negativo
+5;;1234;negativo
+6;diego;;negativo
+7;diegoaugusto008@gmail.com;;negativo
